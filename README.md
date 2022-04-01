@@ -1,1 +1,1 @@
-"## LIBOR Transition" 
+## LIBOR Transition
